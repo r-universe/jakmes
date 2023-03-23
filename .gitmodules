@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "crch"]
+	path = crch
+	url = https://github.com/cran/crch
+	shallow = true
+	registered = true
+[submodule "ensemblepp"]
+	path = ensemblepp
+	url = https://github.com/cran/ensemblepp
+	shallow = true
+	registered = true
